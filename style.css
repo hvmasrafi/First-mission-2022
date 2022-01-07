@@ -5,6 +5,11 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 h1{
     font-size: 70px;
 }
+h2{
+    font-size: 50px;
+    margin-left: 40%;
+
+}
 .orange-colour{
     color: orange;
 }
@@ -15,7 +20,7 @@ h1{
     
 }
 .half-width img{
-    width: 80%;
+    width: 70%;
     margin-top: 30px;
 }
 
@@ -40,4 +45,31 @@ h1{
 }
 #bottom-margin{
     margin-top: 30px;
+}
+.mission-item{
+    margin-top: 100px;
+
+}
+.half-width2{
+    width: 20%;
+    margin: 30px 130px;
+    padding-left:1%;
+    padding-right: 1%
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.half-width2 img{
+    width: 50%;
+}
+#colour-1{
+    background-color: wheat;
+    border-radius: 10px;
+}
+#colour-2{
+    background-color: pink;
+    border-radius: 10px;
+}
+#colour-3{
+    background-color: plum;
+    border-radius: 10px;
 }
