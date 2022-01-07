@@ -44,6 +44,7 @@ h2{
 }
 .margin-bottom{
     margin-bottom: 50px;
+    font-size: 20px;
 }
 #bottom-margin{
     margin-top: 30px;
@@ -93,6 +94,7 @@ h2{
 }
 .margin-down{
     margin-bottom: 50px;
+    font-size: 20px;
 }
 #limits-right{
     padding-right: 400px;
@@ -105,7 +107,7 @@ h2{
     background-repeat: no-repeat;
     background-size: 180px;
     background-position-x: 1500px;
-    background-position-y: 430px;
+    background-position-y: 200px;
 }
 .project-area img{
     width: 80%;
@@ -113,4 +115,14 @@ h2{
 #project-margin{
     margin-left: 0px;
     padding-right: 270px;
+}
+#limit2-right{
+    padding-right: 400px;
+    margin-left: 0;
+}
+.padding-health{
+    padding-left: 180px;
+}
+#health-margin{
+    margin-left: 800px;
 }
