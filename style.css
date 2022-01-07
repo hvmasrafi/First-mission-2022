@@ -16,6 +16,7 @@ h2{
 .half-width{
     width: 50%;
     padding-left: 8%;
+    padding-right: 8%;
    
     
 }
@@ -47,15 +48,15 @@ h2{
     margin-top: 30px;
 }
 .mission-item{
-    margin-top: 100px;
+    margin-top: 90px;
 
 }
 .half-width2{
     width: 20%;
-    margin: 30px 130px;
+    margin: 10px 130px;
     padding-left:1%;
-    padding-right: 1%
-    padding-top: 1%;
+    padding-right:1%;
+    padding-top:1%;
     padding-bottom: 1%;
 }
 .half-width2 img{
@@ -72,4 +73,22 @@ h2{
 #colour-3{
     background-color: plum;
     border-radius: 10px;
+}
+.half-width3{
+    width: 50%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.half-width3 img{
+    width: 80%;
+}
+.codding-area{
+    margin-top: 90px;
+    background-image: url(images/person/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: 15px;
+    background-position-y: 60px;
+}
+.margin-down{
+    margin-bottom: 50px;
 }
