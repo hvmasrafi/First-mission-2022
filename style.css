@@ -97,3 +97,19 @@ h2{
     margin-right: 270px;
     margin-left: 0;
 }
+.project-area{
+    display: flex;
+    margin-top: 70px;
+    background-image: url(images/person/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 180px;
+    background-position-x: 1185px;
+    background-position-y: 325px;
+}
+.project-area img{
+    width: 80%;
+}
+#project-margin{
+    margin-left: 0px;
+    margin-right: 100px;
+}
