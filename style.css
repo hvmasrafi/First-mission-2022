@@ -32,7 +32,8 @@ h2{
 #border-colour{
     border-left: 7px solid orange;
     border-radius: 3px;
-    padding-left: 20px;
+    padding-left: 30px;
+    padding-right: 120px;
 }
 .link-button{
     text-decoration: none;
@@ -86,15 +87,15 @@ h2{
     margin-top: 90px;
     background-image: url(images/person/dream-bg.png);
     background-repeat: no-repeat;
-    background-position-x: 15px;
-    background-position-y: 60px;
+    background-position-x: 33px;
+    background-position-y: 90px;
 
 }
 .margin-down{
     margin-bottom: 50px;
 }
 #limits-right{
-    margin-right: 270px;
+    padding-right: 400px;
     margin-left: 0;
 }
 .project-area{
@@ -103,13 +104,13 @@ h2{
     background-image: url(images/person/shape-1.png);
     background-repeat: no-repeat;
     background-size: 180px;
-    background-position-x: 1185px;
-    background-position-y: 325px;
+    background-position-x: 1500px;
+    background-position-y: 430px;
 }
 .project-area img{
     width: 80%;
 }
 #project-margin{
     margin-left: 0px;
-    margin-right: 100px;
+    padding-right: 270px;
 }
