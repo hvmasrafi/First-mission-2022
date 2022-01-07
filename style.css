@@ -80,7 +80,7 @@ h2{
     padding-right: 8%;
 }
 .half-width3 img{
-    width: 80%;
+    width: 90%;
 }
 .codding-area{
     margin-top: 90px;
@@ -88,7 +88,12 @@ h2{
     background-repeat: no-repeat;
     background-position-x: 15px;
     background-position-y: 60px;
+
 }
 .margin-down{
     margin-bottom: 50px;
+}
+#limits-right{
+    margin-right: 270px;
+    margin-left: 0;
 }
